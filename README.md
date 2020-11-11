@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some F# project
+- 🔭 I’m currently working on a F# project
