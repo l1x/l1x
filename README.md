@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on:
   - data
+  - teaching
   - functional programming
   - cloud
 
