@@ -1,6 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on:
-  - AI Search @ Superlinked
-  - functional programming with Rust
-
+- Day job: VP of Engineering @ Superlinked | Building AI-Powered Search Infrastructure
+- Hobby projects: Rust <3 AI
