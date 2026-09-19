@@ -18,5 +18,3 @@ I work as a Technical Account Manager at an AWS Premier Consulting Partner, wher
 Most of my tooling for that work lives in this profile: Rust and TypeScript CLIs for generating SOWs, reconciling pipelines, and building presentation decks from structured data.
 
 Outside the day job I run a small consultancy focused on AI governance for regulated industries, and I lecture on cloud and data architecture at a business school ([fs.de](https://www.fs.de)).
-
-I replaced "landing zones and Control Tower" with "multi-account landing zones". Drop the "multi-account" qualifier if you want it plainer.
