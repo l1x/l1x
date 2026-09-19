@@ -8,7 +8,7 @@ I also have a deep background in data engineering and functional programming, wi
 
 ## What I do day to day
 
-I work as a Technical Account Manager at an AWS Premier Consulting Partner, where I scope, architect, and own customer engagements from the first scoping call through delivery. Over the last six months that has meant writing and running several dozen statements of work across energy, HPC, financial services, insurance, AI products, and consumer media, in eleven countries. The recurring shapes:
+I work as a Technical Account Manager at an AWS Premier Tier consulting partner, where I scope, architect, and own customer engagements from the first scoping call through delivery. Over the last six months that has meant writing and running several dozen statements of work across energy, HPC, financial services, insurance, AI products, and consumer media, in eleven countries. The recurring themes:
 
 - **Cloud migrations and foundations.** AWS MAP Assess and Mobilize programmes, multi-account landing zones, Terraform and CDK, containers on ECS and EKS, and the AWS funding mechanics that make these engagements work for the customer.
 - **HPC and scientific computing.** Simulation workloads on ParallelCluster, FSx for Lustre, Graviton and GPU fleets, for teams in laser fusion, in-space propulsion, and subsurface modelling.
